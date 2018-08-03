@@ -11,6 +11,7 @@ namespace Aula0208POO.Modelos
     {
         
         public string Cor { get; set; }
+        public int Velocidade { get; set ; }
 
         public void Acelerar()
         {

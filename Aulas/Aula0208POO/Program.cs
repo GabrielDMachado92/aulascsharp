@@ -18,6 +18,8 @@ namespace Aula0208POO
             car.Placa = "ABC-1234";
             car.Acelerar();
 
+            ExecutaTesteMotor(car);
+
             //Console.WriteLine("Velocidade: " + car.Velocidade);
             Console.ReadKey();
 

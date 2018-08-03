@@ -5,6 +5,8 @@ namespace Aula0208POO.Modelos
 {
     class Carro : Veiculo, IMotorizado
     {
+        public int Velocidade { get; set; }
+
         public void Acelerar()
         {
             Console.WriteLine("Acelerando carro...");
