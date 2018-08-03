@@ -8,6 +8,8 @@ namespace Aula0208POO.Modelos.Interfaces
 {
     interface IMotorizado
     {
+        int Velocidade { get; set; }
+
         void Acelerar();
 
         void Freiar();

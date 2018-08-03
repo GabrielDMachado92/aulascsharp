@@ -7,21 +7,18 @@ using System.Threading.Tasks;
 
 namespace Aula0208POO.Modelos
 {
-    class Moto : Veiculo, IMotorizado
+    class Barco : Veiculo, IMotorizado
     {
-        
-        public string Cor { get; set; }
-
         public void Acelerar()
         {
-            Console.WriteLine("MOTO Acelerando...");
-            Velocidade += 7;
+            Console.WriteLine("Acelerando barco...");
+            Velocidade += 12;
         }
 
         public void Freiar()
         {
-            Console.WriteLine("MOTO Freiando...");
-            Velocidade -= 4;
+            Console.WriteLine("Freiando barco...");
+            Velocidade -= 8;
         }
     }
 }

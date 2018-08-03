@@ -7,13 +7,13 @@ namespace Aula0208POO.Modelos
     {
         public void Acelerar()
         {
-            Console.WriteLine("Acelerando...");
+            Console.WriteLine("Acelerando carro...");
             Velocidade += 5;
         }
 
         public void Freiar()
         {
-            Console.WriteLine("Freiando...");
+            Console.WriteLine("Freiando carro...");
             Velocidade -= 3;
         }
     }
