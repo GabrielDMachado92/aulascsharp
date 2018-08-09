@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula0208POO", "Aula0208POO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula0708_WPF", "Aula0708_WPF\Aula0708_WPF.csproj", "{CD57D9BB-9DAC-49BF-B14D-AE0EF6E564E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaEscolar", "SistemaEscolar\SistemaEscolar.csproj", "{493163C2-7B9A-4FC4-ADE0-72ECA9614471}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CD57D9BB-9DAC-49BF-B14D-AE0EF6E564E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD57D9BB-9DAC-49BF-B14D-AE0EF6E564E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD57D9BB-9DAC-49BF-B14D-AE0EF6E564E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493163C2-7B9A-4FC4-ADE0-72ECA9614471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493163C2-7B9A-4FC4-ADE0-72ECA9614471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493163C2-7B9A-4FC4-ADE0-72ECA9614471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493163C2-7B9A-4FC4-ADE0-72ECA9614471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
