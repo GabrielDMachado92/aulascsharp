@@ -32,7 +32,10 @@ namespace Aula1408_EntityFramework1
            É uma classe do pacote do Entity Framework que serve para mapear um objeto que será relacionado ao banco de dados.
            Usado na configuração da classe de contexto. 
 
-            Instalando Entity Framework
+           Instalando Entity Framework
+           - Usar NuGet
+           
+           Criando Base (ModelFirst)
 
 
         */
