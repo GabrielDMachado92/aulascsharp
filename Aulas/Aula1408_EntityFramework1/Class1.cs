@@ -36,7 +36,8 @@ namespace Aula1408_EntityFramework1
            - Usar NuGet
            
            Criando Base (ModelFirst)
-
+           
+            Nome Servidor local = (localdb)\MSSQLLOCALDB
 
         */
     public class Class1
